@@ -7,7 +7,7 @@ cask "contextbar" do
   desc "macOS menu bar app for managing AI coding tool skills and MCP servers"
   homepage "https://github.com/varkart/contextbar"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Context Bar.app"
 
