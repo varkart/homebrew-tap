@@ -1,6 +1,6 @@
 cask "contextbar" do
-  version "0.8.14"
-  sha256 "6ea28a9bcacdcd4a35d8772e827df14996838847cf7c8b2d2e71d9db3930346c"
+  version "0.8.15"
+  sha256 "cb3f77ace4cc48364aa57ed9ef5066b39a96158e5f742d126a15d77f4ba00b55"
 
   url "https://github.com/varkart/contextbar/releases/download/v#{version}/Context.Bar_v#{version}_universal.dmg"
   name "Context Bar"
